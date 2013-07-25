@@ -22,5 +22,9 @@ Disable ALT+TAB behavior of Windows with AutoHotKey
 #### csgo-npp-language 
 
 "CSGO ConfigFile" is a text highlight for Counter-Strike Global Offensive configuration files
+- Copy the xml file I wrote
+- Open Notepad++ and go to Language > Define your Language > Import
+- Select the file
+- Tadaaaaa magic happends
 
 ![Screenshot](http://i.imgur.com/a697ncN.png)

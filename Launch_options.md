@@ -1,6 +1,6 @@
 #### CSGO launch options
 
--console -novid  -condebug 32bit -dxlevel 90 -refresh 120 -tickrate 128  +mat_vignette_enable 0
+-console -novid -condebug 32bit -high -threads 4 -dxlevel 90 -refresh 120 -tickrate 128 +mat_vignette_enable 0
 
 ##### Description : 
 

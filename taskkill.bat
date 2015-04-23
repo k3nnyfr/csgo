@@ -1,0 +1,16 @@
+@echo off
+echo "TaskKill Apps for Gaming"
+TASKKILL.exe /F /IM "chrome.exe"
+TASKKILL.exe /F /IM "firefox.exe"
+TASKKILL.exe /F /IM "ace_update.exe"
+TASKKILL.exe /F /IM "ace_web_extension.exe"
+TASKKILL.exe /F /IM "Veeam.EndPoint.Tray.exe"
+TASKKILL.exe /F /IM "Skype.exe"
+TASKKILL.exe /F /IM "Dropbox.exe"
+TASKKILL.exe /F /IM "btsync.exe"
+TASKKILL.exe /F /IM "hubiC.exe"
+TASKKILL.exe /F /IM "CCleaner64.exe"
+TASKKILL.exe /F /IM "BitTorrent.exe"
+TASKKILL.exe /F /IM "NetworkDriveManager.exe"
+REM TASKKILL.exe /F /IM "Telegram.exe"
+exit

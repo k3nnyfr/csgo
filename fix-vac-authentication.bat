@@ -16,3 +16,6 @@ bcdedit /debug off
 
 echo "Etape 3 : BCDedit DeleteValue Nx"
 bcdedit.exe /deletevalue nx
+
+echo "Reboot"
+shutdown -t 0 -r -f

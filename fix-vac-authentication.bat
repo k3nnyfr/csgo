@@ -1,6 +1,6 @@
 @echo off
 REM - Script pour fixer le problème VAC Authentication Failed
-REM - Source : https://support.steampowered.com/kb_article.php?ref=2117-ILZV-2837&l=french
+REM - Source https://support.steampowered.com/kb_article.php?ref=2117-ILZV-2837&l=french
 
 echo "Etape 1 : Reparation Steam"
 start "C:\Program Files (x86)\Steam\bin\SteamService.exe" /repair
